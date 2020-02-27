@@ -14,7 +14,6 @@
 
 //     The Next higher number goes to the left of minimum number and So on , in a to-and-fro manner similar to that of a Pendulum.
 
-// !alt
 // Notes
 
 //     Array/list size is at least *3*** .
